@@ -1,5 +1,6 @@
 # Vertion env
 pyDvenv
+.ipynb_*
 
 # Others
 web_links.txt
